@@ -1,0 +1,15 @@
+export const FORM = {
+  display: "flex",
+  justifyContent: "center",
+  alignItems: "center",
+  width: "386px",
+  height: "520px",
+  background: "#F0F0F0",
+  border: "1px solid #000000",
+  boxShadow: "0px 4px 4px rgba(0, 0, 0, 0.25)",
+  borderRadius: "10px",
+  fontFamily: '"Inter", sans-serif',
+  fontOpticalSizing: 'auto',
+  fontWeight: '400',
+  fontStyle: 'normal',
+};
