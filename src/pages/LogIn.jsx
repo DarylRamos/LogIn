@@ -4,7 +4,7 @@ import Form from "../components/Form";
 function LogIn() {
   return (
     <div>
-      <Form />
+      <Form isLoggedIn={false} />
     </div>
   );
 }
